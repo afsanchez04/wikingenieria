@@ -12,7 +12,7 @@ li.nav-item.btn-nav {
 }
 .bg-image{
     background-color: rgba(0, 0, 0, 0.575);
-    background-image: url(./images/bg.jpg);
+    background-image: url(./images/bg-min.jpg);
     background-size: cover;
     background-position: center center;
     
@@ -25,7 +25,7 @@ li.nav-item.btn-nav {
 }
 
 .bg-2{
-    background-image: url(./images/bg2.jpg);
+    background-image: url(./images/bg2-min.jpg);
     background-position: center center;
     background-size: cover;
 }
@@ -36,7 +36,7 @@ li.nav-item.btn-nav {
 }
 
 .bg-tomato{
-    background-image: url(./images/red-bg.jpg);
+    background-image: url(./images/red-bg-min.jpg);
     background-position: center center;
     background-size: cover;
     background-color: black;
